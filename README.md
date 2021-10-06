@@ -1,4 +1,4 @@
-<img src="http://imgur.com/1ZcRyrc.png" style="float: left; margin: 20px; height: 55px">
+<img src="https://i.imgur.com/1ZcRyrc.png" style="float: left; margin: 20px; height: 55px">
 
 # Final Project Presentation
 
