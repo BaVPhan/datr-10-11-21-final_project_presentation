@@ -1,5 +1,3 @@
-<img src="https://i.imgur.com/1ZcRyrc.png" style="float: left; margin: 20px; height: 20px">
-
 # Final Project Presentation
 
 ## Overview
