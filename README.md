@@ -22,7 +22,7 @@ Be prepared to explain and defend your model to an inquisitive audience. It is O
 
 You will have something like 5-10 minutes to present, depending on how many students submit a final project. Exact timing guidelines for your cohort will be posted below a couple weeks ahead of time.
 
-**DATR-524:** Aim for 6-8 minutes, with a hard cutoff at 10 minutes.
+**DATR-1011:** Aim for 6-8 minutes, with a hard cutoff at 10 minutes.
 
 Submit any supporting materials for your project, such as slides or a Jupyter notebook, following the instructions in the Course Info doc. If you are submitting something other than a Jupyter notebook or other plain-text file, such as a Powerpoint file, convert it to PDF if possible.
 
@@ -39,7 +39,3 @@ For a stretch challenge, you might create an interactive demo of your model in a
 ## Examples
 
 You can see an example of a past presentation [here](./presentation_example.pdf) and additional examples at the [GA Gallery](https://gallery.generalassemb.ly/DS?metro=), but note that the GA Gallery examples in particular may have been based on somewhat different instructions.
-
-## Recording
-
-- [Oct. 29, 2020](https://generalassembly.zoom.us/rec/share/7uPVdUNiUqDMGnEwjx3SnSrWzQmsO7R_T2k4X7Dp-bvOQMtlj-cM9elfudEIerca.PYlb9aPJD1gYF9Tf)
