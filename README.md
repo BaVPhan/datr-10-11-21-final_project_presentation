@@ -22,7 +22,7 @@ Be prepared to explain and defend your model to an inquisitive audience. It is O
 
 You will have something like 5-10 minutes to present, depending on how many students submit a final project. Exact timing guidelines for your cohort will be posted below a couple weeks ahead of time.
 
-**DATR-1011:** Aim for 6-8 minutes, with a hard cutoff at 10 minutes.
+**DATR-1011:** Aim for 5-7 minutes, with a hard cutoff at 8 minutes.
 
 Submit any supporting materials for your project, such as slides or a Jupyter notebook, following the instructions in the Course Info doc. If you are submitting something other than a Jupyter notebook or other plain-text file, such as a Powerpoint file, convert it to PDF if possible.
 
